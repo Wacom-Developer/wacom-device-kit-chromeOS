@@ -4,7 +4,7 @@ For Android API based apps, please refer to [Wacom Device Kit: Android sample co
 
 For web based apps, we provide two sets of samples: 
 
-- [Wintab ScribbleDemo - Getting Started ](https://github.com/Wacom-Developer/wacom-device-kit-windows/blob/master/Wintab%20ScribbleDemo/GETTING-STARTED.md)
+- [Wintab ScribbleDemo - GETTING STARTED](https://github.com/Wacom-Developer/wacom-device-kit-windows/blob/master/Wintab%20ScribbleDemo/GETTING-STARTED.md)
 - A collection of open source touch/pointer tests and demos: https://github.com/patrickhlauke/touch
 
 ## Test Environment
