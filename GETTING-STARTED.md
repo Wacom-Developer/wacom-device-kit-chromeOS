@@ -25,7 +25,7 @@ The web app samples do not need to be built. You can test them by the following:
 1. Open the Chrome browser.
 2. Copy the HTML page onto the browser.
 3. Once the page loads, you should be able to immediately use your pen, finger or mouse:
-	* To draw on the page canvas area, see  [Wintab ScribbleDemo - Getting Started](https://github.com/Wacom-Developer/wacom-device-kit-windows/blob/master/Wintab%20ScribbleDemo/GETTING-STARTED.md).
+	* To draw on the page canvas area, see  [Wintab ScribbleDemo - GETTING STARTED](https://github.com/Wacom-Developer/wacom-device-kit-windows/blob/master/Wintab%20ScribbleDemo/GETTING-STARTED.md).
 	* To view  pen events, see https://patrickhlauke.github.io/touch/pen-tracker/index.html.
 	* Or, to view pen and touch events, see https://patrickhlauke.github.io/touch/tracker/multi-touch-tracker-pointer-hud-pep.html.
 
