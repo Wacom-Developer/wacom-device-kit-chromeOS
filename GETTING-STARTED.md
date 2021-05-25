@@ -1,6 +1,6 @@
 # Getting Started
 
-For Android API based apps, please refer to [Wacom Device Kit: Android sample code ](https://github.com/Wacom-Developer/wacom-device-kit-android)
+For Android API based apps, please refer to [Wacom Device Kit: Android](https://github.com/Wacom-Developer/wacom-device-kit-android).
 
 For web based apps, we provide two sets of samples: 
 
